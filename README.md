@@ -1,7 +1,5 @@
 # Light Fighter Manifesto
 
-**Tactical knowledge sharing for the modern Light Fighter.**
-
 Light Fighter Manifesto is a community-driven publication and resource hub focused on practical skills, self-reliance, and adaptable thinking. We share knowledge from subject matter experts across survival, communications, autonomous systems, fabrication, and operational security.
 
 ## GitHub Projects
