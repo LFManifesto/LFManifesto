@@ -6,11 +6,11 @@ Light Fighter Manifesto is a veteran-owned publication focused on practical skil
 
 ## GitHub Projects
 
-| Project | Description |
-|---------|-------------|
-| [website](https://github.com/LFManifesto/website) | Official website - articles, web apps, podcast, and resources |
-| [ReticulumHF](https://github.com/LFManifesto/ReticulumHF) | Encrypted communication over HF radio using the Reticulum Network Stack |
-| [ReticulumXMR](https://github.com/LFManifesto/ReticulumXMR) | Monero transactions over Reticulum - off-grid cryptocurrency via radio/I2P |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [LXMFMonero](https://github.com/LFManifesto/LXMFMonero) | Monero over LXMF/Reticulum mesh networks - off-grid cryptocurrency | Testing |
+| [LFM-HF-Reticulum](https://github.com/LFManifesto/LFM-HF-Reticulum) | Encrypted communication over HF radio using Reticulum | Active |
+| [website](https://github.com/LFManifesto/website) | Official website - articles, web apps, podcast, resources | Active |
 
 ## LFM Infrastructure
 
