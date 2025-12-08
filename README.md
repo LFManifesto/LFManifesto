@@ -4,13 +4,41 @@ Light Fighter Manifesto is a veteran-owned publication focused on practical skil
 
 *Unfiltered. Uncensored. Unconventional.*
 
-## GitHub Projects
+---
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [LXMFMonero](https://github.com/LFManifesto/LXMFMonero) | Monero over LXMF/Reticulum mesh networks - off-grid cryptocurrency | Testing |
-| [LFM-HF-Reticulum](https://github.com/LFManifesto/LFM-HF-Reticulum) | Encrypted communication over HF radio using Reticulum | Active |
-| [website](https://github.com/LFManifesto/website) | Official website - articles, web apps, podcast, resources | Active |
+## Active Projects
+
+Open collaboration on communications and field operations. We pay for contributions.
+
+| Project | Description | Repos |
+|---------|-------------|-------|
+| **LFM-Reticulum** | Encrypted mesh over HF radio. Monero transactions over mesh. | [ReticulumHF](https://github.com/LFManifesto/ReticulumHF) / [LXMFMonero](https://github.com/LFManifesto/LXMFMonero) |
+| **LFM-Unmanned Systems** | FPV platforms, counter-UAS, build docs, flight controller configs | Coming soon |
+| **LFM-Guerrilla Tech** | AI-assisted field ops, medical, SIGINT, improvised solutions | Coming soon |
+
+**Want to contribute?** See [lightfightermanifesto.org/projects](https://lightfightermanifesto.org/projects/) for bounties and submission details.
+
+---
+
+## Contributing
+
+We pay for work that ships. All payments in Monero (XMR).
+
+| Type | Payout |
+|------|--------|
+| Articles (1500-3000 words) | $25 |
+| Field Documentation | $10 |
+| Hardware Configs | $30 |
+| Code Contributions | Variable |
+
+**Submit via:**
+- **Code:** Open a PR or [Discussion](https://github.com/LFManifesto/ReticulumHF/discussions)
+- **Everything else:** [lfmanifesto@proton.me](mailto:lfmanifesto@proton.me)
+
+PGP Key: [lfm-dead-drop.asc](https://lightfightermanifesto.org/keys/lfm-dead-drop.asc)
+Fingerprint: `5F30 7CCC D67D 28BC F7D2 B5EE FBEC F672 D19E 1FFB`
+
+---
 
 ## LFM Infrastructure
 
@@ -22,32 +50,38 @@ Self-hosted privacy-focused services:
 | **Monero Node (Tor)** | `tnm23vptv53qmqrt57rhy7ogmjvqfaicq4t3qju4axfd6v7rmq5cgxyd.onion:18081` |
 | **Reticulum I2P** | `kfamlmwnlw3acqfxip4x6kt53i2tr4ksp5h4qxwvxhoq7mchpolq.b32.i2p` |
 
+---
+
 ## Focus Areas
 
-- **Communications** - Reticulum network stack, HF radio, encrypted messaging
-- **Autonomous Systems** - FPV drones, ArduPilot, MAVLink
+- **Communications** - Reticulum, HF radio, encrypted messaging, mesh networks
+- **Autonomous Systems** - FPV drones, ArduPilot, counter-UAS
 - **SIGINT** - SDR, signal analysis, electronic warfare
 - **Cryptocurrency** - Monero (XMR) for operational privacy
-- **Infrastructure** - Self-hosted servers, off-grid deployments
-- **Fabrication** - STL files, hardware modifications, maker resources
+- **AI/ML** - Field medical, direction finding, SIGINT analysis
+
+---
 
 ## The Zine
 
-The Light Fighter Manifesto Zine features honest, no-filler content from respected practitioners. Topics include survival, covert entry, OSINT, navigation, equipment selection, and mission planning.
+In-depth field guides from practitioners with direct experience. Topics include survival, covert entry, OSINT, navigation, equipment selection, and mission planning.
 
-- **Volume I-IV** available at [lightfightermanifesto.org/shop](https://lightfightermanifesto.org/shop/)
-- Payment options include Monero and cash
+- **Volumes I-IV** available at [lightfightermanifesto.org/shop](https://lightfightermanifesto.org/shop/)
+- Accepts Monero and cash
+
+---
 
 ## Connect
 
 - **Website:** [lightfightermanifesto.org](https://lightfightermanifesto.org)
-- **Discord:** [Light Fighter Manifesto Server](https://discord.com/invite/light-fighter-manifesto-963878135718371408)
+- **Discord:** [Light Fighter Manifesto](https://discord.com/invite/light-fighter-manifesto-963878135718371408) (~4,000 members)
 - **Matrix:** [#General:matrix.lightfightermanifesto.net](https://matrix.to/#/#General:matrix.lightfightermanifesto.net)
-- **Instagram:** [@light_fighter_manifesto](https://www.instagram.com/light_fighter_manifesto/)
-- **TikTok:** [@lfmanifesto](https://www.tiktok.com/@lfmanifesto)
+
+Project channels (invite-only, join #General first):
+- #LFM-Reticulum
+- #LFM-Unmanned-Systems
+- #LFM-Guerrilla-Tech
 
 ---
 
-*"The Light Fighter must embody a light fighting ethic - freedom from dependence on fixed lines of communication, with a strong propensity for self-reliance."*
-
-Veteran-owned publication since 2022
+*Veteran-owned since 2022*
