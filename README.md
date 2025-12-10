@@ -14,11 +14,12 @@ Publications fund development. All contributions become open source. We do not p
 
 ## Active Projects
 
-| Project | Description | Repos |
-|---------|-------------|-------|
-| **LFM-Reticulum** | Encrypted mesh over HF radio. Monero transactions over mesh. | [ReticulumHF](https://github.com/LFManifesto/ReticulumHF) / [LXMFMonero](https://github.com/LFManifesto/LXMFMonero) |
-| **LFM-Unmanned Systems** | FPV platforms, counter-UAS, build docs, flight controller configs | Coming soon |
-| **LFM-Guerrilla Tech** | AI-assisted field ops, medical, SIGINT, improvised solutions | Coming soon |
+| Project | Description | Status | Repos |
+|---------|-------------|--------|-------|
+| **LXMFMonero** | Monero transactions over Reticulum mesh (TCP, I2P, LoRa) | **Working** | [LXMFMonero](https://github.com/LFManifesto/LXMFMonero) |
+| **LFM-HF-Reticulum** | Encrypted mesh over HF radio | In Development | [LFM-HF-Reticulum](https://github.com/LFManifesto/LFM-HF-Reticulum) |
+| **LFM-Unmanned Systems** | FPV platforms, counter-UAS, build docs | Coming soon | - |
+| **LFM-Guerrilla Tech** | AI-assisted field ops, medical, SIGINT | Coming soon | - |
 
 ---
 
