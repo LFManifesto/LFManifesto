@@ -17,5 +17,5 @@ Self-hosted privacy-focused services:
 ## Connect
 
 - **Website:** [lightfightermanifesto.org](https://lightfightermanifesto.org)
-- **Discord:** [Light Fighter Manifesto](https://discord.com/invite/light-fighter-manifesto-963878135718371408) (~4,000 members)
+- **Discord:** [Light Fighter Manifesto](https://discord.com/invite/light-fighter-manifesto-963878135718371408) 
 - **Matrix:** [#General:matrix.lightfightermanifesto.net](https://matrix.to/#/#General:matrix.lightfightermanifesto.net)
