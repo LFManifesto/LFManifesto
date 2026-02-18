@@ -1,6 +1,6 @@
 # Light Fighter Manifesto
 
-Light Fighter Manifesto is a veteran-owned publication focused on practical skills, self-reliance, and adaptable thinking. We share knowledge from subject matter experts across survival, communications, autonomous systems, fabrication, and operational security.
+The Light Fighter Manifesto has been in publication since 2022. LFM arms communities with independent publications, training, open source software, and self-hosted infrastructure.
 
 *Unfiltered. Uncensored. Unconventional.*
 
@@ -12,7 +12,6 @@ Self-hosted privacy-focused services:
 |---------|---------|
 | **Matrix Homeserver** | `matrix.lightfightermanifesto.net` |
 | **Monero Node (Tor)** | `tnm23vptv53qmqrt57rhy7ogmjvqfaicq4t3qju4axfd6v7rmq5cgxyd.onion:18081` |
-| **Reticulum I2P** | `kfamlmwnlw3acqfxip4x6kt53i2tr4ksp5h4qxwvxhoq7mchpolq.b32.i2p` |
 
 ## Connect
 
