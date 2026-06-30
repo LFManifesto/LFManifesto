@@ -17,4 +17,4 @@ Self-hosted privacy-focused services:
 
 - **Website:** [lightfightermanifesto.org](https://lightfightermanifesto.org)
 - **Discord:** [Light Fighter Manifesto](https://discord.com/invite/light-fighter-manifesto-963878135718371408) 
-- **Matrix:** [#General:matrix.lightfightermanifesto.net](https://matrix.to/#/#general:matrix.lightfightermanifesto.net)
+- **Matrix:** [#general:matrix.lightfightermanifesto.net](https://matrix.to/#/#general:matrix.lightfightermanifesto.net)
